@@ -6,6 +6,5 @@
         {
             Console.WriteLine("Circle is drawn");
         }
-
     }
 }
