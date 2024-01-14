@@ -7,9 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FactoryDesignPattern", "Fac
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SingletonDesignPattern", "SingletonDesignPattern\SingletonDesignPattern.csproj", "{F58D4F6C-EDCF-414E-A4F7-090EFD9852F6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacadeDesignPattern", "FacadeDesignPattern\FacadeDesignPattern.csproj", "{0BBFBD48-9D7E-4636-BDC0-1690E65FBE0F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FacadeDesignPattern", "FacadeDesignPattern\FacadeDesignPattern.csproj", "{0BBFBD48-9D7E-4636-BDC0-1690E65FBE0F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrototypeDesignPattern", "PrototypeDesignPattern\PrototypeDesignPattern.csproj", "{30506D04-933E-4EBB-A863-11A76E095BA1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrototypeDesignPattern", "PrototypeDesignPattern\PrototypeDesignPattern.csproj", "{30506D04-933E-4EBB-A863-11A76E095BA1}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CreationalDesignPattern", "CreationalDesignPattern", "{257F5010-2456-46D2-8199-92CAE85E5763}"
 EndProject
